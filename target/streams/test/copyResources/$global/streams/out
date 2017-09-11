@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\haftab\Downloads\sbt-0.13.16\sbt\alfutaim\src\test\resources\data,C:\Users\haftab\Downloads\sbt-0.13.16\sbt\alfutaim\target\scala-2.11\test-classes\data)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\haftab\Downloads\sbt-0.13.16\sbt\alfutaim\src\test\resources\data\anime.csv,C:\Users\haftab\Downloads\sbt-0.13.16\sbt\alfutaim\target\scala-2.11\test-classes\data\anime.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\haftab\Downloads\sbt-0.13.16\sbt\alfutaim\src\test\resources\data\rating.csv,C:\Users\haftab\Downloads\sbt-0.13.16\sbt\alfutaim\target\scala-2.11\test-classes\data\rating.csv)[0m
